@@ -84,13 +84,13 @@
       --color-bg-disable: #e4e4e4;
       // toast bg color and text color
       --toast-success-bg: #e5fff1;
-      --toast-success-text: var(--success-color);
+      --toast-success-text: var(--color-base-success);
       --toast-warning-bg: #fff6e5;
-      --toast-warning-text: var(--warning-color);
+      --toast-warning-text: var(--color-base-warning);
       --toast-fail-bg: #ffe8e5;
-      --toast-fail-text: var(--danger-color);
+      --toast-fail-text: var(--color-base-danger);
       --toast-info-bg: #e9f1fc;
-      --toast-info-text: var(--info-color);
+      --toast-info-text: var(--color-base-info);
       // shadow
       --box-shadow-1: 0 4px 24px -4px #2323280f;
       --box-shadow-2: 0 3px 11px var(--color-base-1);

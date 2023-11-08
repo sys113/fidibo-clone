@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import 'normalize.css/normalize.css';
+import "normalize.css/normalize.css";
 import "@/styles/global.scss";
 
 export const metadata: Metadata = {

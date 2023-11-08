@@ -13,8 +13,7 @@
     "next": "14.0.1",
     "normalize.css": "^8.0.1",
     "react": "^18",
-    "react-dom": "^18",
-    "sass": "^1.69.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^18.1.0",
@@ -29,6 +28,7 @@
     "eslint-config-next": "14.0.1",
     "husky": "^8.0.0",
     "postcss": "^8",
+    "postcss-nesting": "^12.0.1",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.6",
     "tailwindcss": "^3.3.0",

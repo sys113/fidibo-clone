@@ -79,6 +79,12 @@ html {
   scroll-behavior: smooth !important;
 }
 
+/* body scrollbar */
+.simplebar-scrollbar::before {
+  background: var(--color-primary) !important;
+  width: 4px;
+}
+
 /* custom scrollbar */
 .custom-scrollbar {
   overflow-y: auto;
@@ -93,23 +99,6 @@ html {
   }
   &::-webkit-scrollbar-thumb:hover {
     background: #adadad;
-  }
-}
-
-/* hide scrollbar */
-html {
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* IE 10+ */
-  ::-webkit-scrollbar-track {
-    -webkit-box-shadow: none !important;
-    background-color: transparent;
-  }
-  ::-webkit-scrollbar {
-    width: 3px !important;
-    background-color: transparent;
-  }
-  ::-webkit-scrollbar-thumb {
-    background-color: transparent;
   }
 }
 

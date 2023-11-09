@@ -9,90 +9,34 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        "skin-color-base-1": "var(--color-base-1)",
-        "skin-color-base-2": "var(--color-base-2)",
-        "skin-color-base-3": "var(--color-base-3)",
-        "skin-color-base-4": "var(--color-base-4)",
-        "skin-color-base-5": "var(--color-base-5)",
-        "skin-color-base-6": "var(--color-base-6)",
-        "skin-color-base-7": "var(--color-base-7)",
-        "skin-color-base-success": "var(--color-base-success)",
-        "skin-color-base-danger": "var(--color-base-danger)",
-        "skin-color-base-warning": "var(--color-base-warning)",
-        "skin-color-base-info": "var(--color-base-info)",
+        // ...
       },
       fill: {
-        "skin-color-icon-1": "var(--color-icon-1)",
-        "skin-color-icon-2": "var(--color-icon-2)",
-        "skin-color-icon-3": "var(--color-icon-3)",
-        "skin-color-icon-4": "var(--color-icon-4)",
-        "skin-color-icon-5": "var(--color-icon-5)",
-        "skin-color-icon-6": "var(--color-icon-6)",
+        // ...
       },
       backgroundColor: {
-        "skin-color-bg-1": "var(--color-bg-1)",
-        "skin-color-bg-2": "var(--color-bg-2)",
-        "skin-color-bg-3": "var(--color-bg-3)",
-        "skin-color-bg-4": "var(--color-bg-4)",
-        "skin-color-bg-5": "var(--color-bg-5)",
-        "skin-color-bg-modal-overlay": "var(--color-bg-modal-overlay)",
-        "skin-color-bg-header": "var(--color-bg-header)",
-        "skin-color-bg-blur": "var(--color-bg-blur)",
-        "skin-color-bg-disable": "var(--color-bg-disable)",
+        // ...
       },
       borderColor: {
-        "skin-color-border-1": "var(--color-border-1)",
-        "skin-color-border-2": "var(--color-border-2)",
-        "skin-color-border-3": "var(--color-border-3)",
-        "skin-color-border-4": "var(--color-border-4)",
+        // ...
       },
       textColor: {
-        "skin-color-text-1": "var(--color-text-1)",
-        "skin-color-text-2": "var(--color-text-2)",
-        "skin-color-text-3": "var(--color-text-3)",
-        "skin-color-text-4": "var(--color-text-4)",
-        "skin-color-text-disable": "var(--color-text-disable)",
+        // ...
       },
       fontSize: {
-        "skin-font-size-1": "var(--font-size-1)",
-        "skin-font-size-2": "var(--font-size-2)",
-        "skin-font-size-3": "var(--font-size-3)",
-        "skin-font-size-4": "var(--font-size-4)",
-        "skin-font-size-5": "var(--font-size-5)",
-        "skin-font-size-6": "var(--font-size-6)",
-        "skin-font-size-7": "var(--font-size-7)",
-        "skin-font-size-8": "var(--font-size-8)",
-        "skin-font-size-9": "var(--font-size-9)",
-        "skin-font-size-10": "var(--font-size-10)",
+        // ...
       },
       lineHeight: {
-        "skin-1": "var(--line-height-1)",
-        "skin-2": "var(--line-height-2)",
-        "skin-3": "var(--line-height-3)",
-        "skin-4": "var(--line-height-4)",
+        // ...
       },
       borderRadius: {
-        "skin-1": "var(--border-radius-1)",
-        "skin-2": "var(--border-radius-2)",
-        "skin-3": "var(--border-radius-3)",
-        "skin-4": "var(--border-radius-4)",
-        "skin-5": "var(--border-radius-5)",
-        "skin-6": "var(--border-radius-6)",
-        "skin-7": "var(--border-radius-7)",
-        "skin-8": "var(--border-radius-8)",
-        "skin-9": "var(--border-radius-9)",
+        // ...
       },
       boxShadow: {
-        "skin-1": "var(--box-shadow-1)",
-        "skin-2": "var(--box-shadow-2)",
-        "skin-3": "var(--box-shadow-3)",
-        "skin-4": "var(--box-shadow-4)",
+        // ...
       },
       zIndex: {
-        "skin-header": "var(--zindex-header)",
-        "skin-modal-box": "var(--zindex-modal-box)",
-        "skin-modal-overlay": "var(--zindex-modal-overlay)",
-        "skin-toast": "var(--zindex-toast)",
+        // ...
       },
     },
   },

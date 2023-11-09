@@ -1,0 +1,16 @@
+## tools
+* tailwindcss
+* postcss
+* nextjs
+* typescript
+* formik
+* axios
+* zod
+* recoil
+* react-query
+* killua
+* husky
+* commitlint
+* lint-stage
+* eslint
+* prettier

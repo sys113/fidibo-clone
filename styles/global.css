@@ -58,6 +58,9 @@
       --color-text-2: #757779;
       --color-border-1: #444749;
       --color-border-2: #2f3132;
+      --color-icon-1: #191c1e;
+      --color-icon-2: #5c5f61;
+      --color-icon-3: #8f9193;
     }
     &[data-theme="dark"] {
       --color-primary: #4cd5dc;
@@ -74,6 +77,9 @@
       --color-text-2: #a9abad;
       --color-border-1: #ebedef;
       --color-border-2: #dfe1e3;
+      --color-icon-1: #dce0e8;
+      --color-icon-2: #c5c7c9;
+      --color-icon-3: #8f9193;
     }
   }
 }
